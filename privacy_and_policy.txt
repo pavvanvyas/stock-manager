@@ -1,0 +1,95 @@
+Privacy Policy for Stockmanager
+Effective Date: July 24, 2024
+
+1. Personal Information Collection:
+
+What specific personal information do you collect from users?
+
+We do not collect personal information from users.
+How is this information collected?
+
+Personal information is only collected during the app purchase process, if required by the payment provider.
+2. Usage Data:
+
+What types of usage data do you collect?
+
+We do not collect usage data such as app activity or log files.
+Do you use any third-party analytics services to collect this data?
+
+No, we do not use third-party analytics services.
+3. Data Usage:
+
+How do you use the collected data?
+
+The app logs are used for sending and receiving data across cross-app interactions. These logs are for internal use to ensure smooth operation and synchronization of app functionalities.
+Do you use the data for personalized advertising or marketing?
+
+No, we do not use any data for personalized advertising or marketing.
+4. Data Sharing:
+
+Do you share user data with third parties?
+
+No, we do not share user data with third parties.
+Are there any specific partners or service providers involved in handling user data?
+
+No, there are no partners or service providers involved in handling user data.
+5. Data Security:
+
+What measures do you take to protect user data?
+
+We implement strong encryption to ensure the protection of data. However, as the data is stored on the user's device and not on our servers, it is ultimately the user's responsibility to secure their device.
+How do you handle data breaches or security incidents?
+
+In the event of a security incident, we will investigate and take appropriate actions to protect user information and notify users if necessary.
+6. User Rights:
+
+How can users access, correct, or delete their personal information?
+
+Since we do not collect personal information, users do not need to access, correct, or delete it.
+What options do users have for opting out of data collection or marketing communications?
+
+Data collection and marketing communications are not applicable as we do not collect or use personal data.
+7. Children’s Privacy:
+
+Does your app collect information from children under 13?
+Our app does not collect information from children under 13. We comply with COPPA (Children’s Online Privacy Protection Act) by not knowingly collecting data from this age group.
+8. Data Retention:
+
+How long do you retain user data?
+
+We do not retain user data as we do not collect it.
+What are your policies for data deletion or retention?
+
+Data deletion or retention policies do not apply as no data is collected.
+9. Cookies and Tracking Technologies:
+
+Do you use cookies or other tracking technologies?
+
+We do not collect user data or use cookies for tracking purposes. However, we use caching to improve loading efficiency.
+What is the purpose of these technologies, and how can users manage them?
+
+Caching is used for efficient loading of the app. Users can refer to our user manual and instructional videos for information on using the app. For further assistance, users can contact our customer care.
+10. International Data Transfers:
+
+Do you transfer user data internationally?
+
+No, we do not transfer user data internationally.
+What measures are in place to protect it?
+
+Not applicable as no data is transferred internationally.
+11. Policy Updates:
+
+How will users be informed about changes to the privacy policy?
+
+Users will be informed about changes to the privacy policy through updates sent to them. The updated privacy policy will be available within the app.
+How often do you review and update the policy?
+
+We review and update the privacy policy as needed to address any issues discovered and ensure compliance with applicable laws.
+12. Contact Information:
+
+Who can users contact for questions or concerns about privacy?
+
+Users can contact us for questions or concerns about privacy.
+What contact information should be provided?
+
+Contact information is available within the mobile application and desktop application. Users can reach us via email at pavanvyas483@gmail.com.
